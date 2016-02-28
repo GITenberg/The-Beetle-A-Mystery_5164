@@ -1,0 +1,43 @@
+_repo: The-Beetle-A-Mystery_5164
+creator:
+  author:
+    agent_name: Marsh, Richard
+    aliases:
+    - Heldman, Richard Bernard
+    - Heldmann, Bernard
+    birthdate: 1857
+    deathdate: 1915
+    gutenberg_agent_id: '1718'
+    url: http://www.gutenberg.org/2009/agents/1718
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Marsh_%28author%29
+description: "The Beetle (or The Beetle: A Mystery) is an 1897 horror novel by the\
+  \ British writer Richard Marsh, in which a polymorphous Ancient Egyptian entity\
+  \ seeks revenge on a British Member of Parliament. It initially out-sold Bram Stoker's\
+  \ similar horror story Dracula, which appeared the same year.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_bookshelf: Mystery Fiction
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5164'
+  wikidata: Q7716299
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Champnell, Augustus (Fictitious character) -- Fiction'
+- !lcsh 'Egypt -- Antiquities -- Collection and preservation -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Monsters -- Fiction'
+- !lcsh 'Egyptologists -- Fiction'
+- !lcsh 'Revenge -- Fiction'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'British -- Egypt -- Fiction'
+- !lcsh 'Horror tales'
+- !lcsh 'Politicians -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+title: 'The Beetle: A Mystery'
+url: http://www.gutenberg.org/ebooks/5164
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Beetle_(novel)

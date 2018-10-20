@@ -1,5 +1,5 @@
 _repo: The-Beetle-A-Mystery_5164
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -43,6 +43,7 @@ subjects:
 - !lcsh 'Horror tales'
 - !lcsh 'Politicians -- Fiction'
 - !lcsh 'London (England) -- Fiction'
+- GITenberg
 title: 'The Beetle: A Mystery'
 url: http://www.gutenberg.org/ebooks/5164
 wikipedia:
